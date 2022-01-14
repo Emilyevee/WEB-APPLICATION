@@ -1,6 +1,6 @@
-# Contemporary Web Applications# 
+# Contemporary Web Applications # 
  ## Com632 ##
-## Emily Greenwood## 
+## Emily Greenwood ## 
       
   <p> Link to Git Repository https://github.com/Emilyevee/WEB-APPLICATION <p> 
   <p> Link to hosted Website http://localhost:3000/ <p>
@@ -11,7 +11,9 @@
 <img width="516" alt="Screenshot 2022-01-14 at 11 30 17" src="https://user-images.githubusercontent.com/55785835/149511558-effd207b-666b-4df5-a4bf-d2505bfc06ab.png">
 
       
-### Methodology ###
+## Methodology ##
+       ![image](https://user-images.githubusercontent.com/55785835/149511729-6f0ca60a-a2ba-4bd4-acd9-f37c5a51f149.png)
+When beginning phase two of this project is was firstly important to decide on a methology to use in order to get the best results 
        
        
        
