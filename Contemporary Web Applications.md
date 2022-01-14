@@ -12,8 +12,9 @@
 
       
 ## Methodology ##
-       ![image](https://user-images.githubusercontent.com/55785835/149511729-6f0ca60a-a2ba-4bd4-acd9-f37c5a51f149.png)
-When beginning phase two of this project is was firstly important to decide on a methology to use in order to get the best results 
+ ![agile-software-development-300x280](https://user-images.githubusercontent.com/55785835/149511994-e840c7b3-e22c-41fd-ba7d-388373ed8ba9.jpg) scr: https://project-management.com/10-key-principles-of-agile-software-development/
+
+When beginning phase two of this project is was firstly important to decide on a methology to use in order to get the best results, research was undertaken into serval different methods including waterh 
        
        
        
