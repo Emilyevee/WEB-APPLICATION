@@ -12,9 +12,11 @@
 
       
 ## Methodology ##
- ![agile-software-development-300x280](https://user-images.githubusercontent.com/55785835/149511994-e840c7b3-e22c-41fd-ba7d-388373ed8ba9.jpg) scr: https://project-management.com/10-key-principles-of-agile-software-development/
-
-When beginning phase two of this project is was firstly important to decide on a methology to use in order to get the best results, research was undertaken into serval different methods including waterh 
+![waterfall-method-process](https://user-images.githubusercontent.com/55785835/149515818-ef955dad-ca42-4216-b5dc-f86b80b96b55.png)
+ scr:https://www.workfront.com/en-gb/project-management/methodologies/waterfall
+When beginning phase two of this project is was firstly important to decide on a methology to use in order to get the best results, research was undertaken into serval different methods including Devops, waterfall and Agile; For this project the methodlogy chosen was waterall. 
+       Waterfull methodology was chosen due to its's clarity and structure; This method included several stages which are requiremnts, design, implementation, verification and maintence. The first two sections of this method was completed in phase one which was estabilsihing the requirments (done through surveys and focus groups) and the design of the applicaiton. The next phase was to develop the design into a Single web page applicaiton, this was completed by creacting a react applicaiton and implementing the different design sections such as the components , pages and styles (as shown in the code ); The application was then deployed using firebase in order to make it accessible and to increase the security of the website. 
+  An advantager to using this methodology was that each stage was clearly laid out meaning nothing would get missed, as well it also allowed for a clear time scale to be created, seeing as the project needed to be completed by the 14/1/22 it was helpful to set deadlines for each section. 
        
        
        
