@@ -25,7 +25,7 @@ To complete the final stage of this methododoy the last part was to complete use
        
        
 #### Resutls ####
-Overall 
+Overall the solution that has been created to the intial issue of students struggling to budgeting at univeristy has been successful, the application that was created inclueds elements that can be used to help students see finaces and spending habits in order to make them more aware of the value of money and how they could cut down. If this project was to be completed again more pages would be added to have a more informative page with tips on and a page potentially with a savings goal on that enabled students to set a goal and see how long it may take to complete it. 
        
        
        
