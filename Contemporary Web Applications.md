@@ -24,8 +24,8 @@ To complete the final stage of this methododoy the last part was to complete use
  When asked what could be done to improve the application many users suggested in adding in a page with tips and tricks on how to save money/ how to make money last, which is something that would be highly consisdered if the project was to be done again. 
        
        
-       #### Resutls ####
-       Overall 
+#### Resutls ####
+Overall 
        
        
        
