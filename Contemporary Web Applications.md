@@ -19,8 +19,12 @@
   An advantaged to using this methodology was that each stage was clearly laid out meaning nothing would get missed, as well it also allowed for a clear time scale to be created, seeing as the project needed to be completed by the 14/1/22 it was helpful to set deadlines for each section. As well as this annother benefit was being able to look for erros during the design phase before moving on to implementing the design, once the design section was completed feedback was collected on the overall design which allowed for changes to be made when doing the implemention, for example one element changed was pulling in spending data as this would be quite a complex and would require alot of security checks. 
        
        
-       ### Methods ###
-       To complete the final stage of this methododoy the last part was to complete user testing; 
+ ### Methods ###
+To complete the final stage of this methododoy the last part was to complete user testing; to do this a survery was given to a group of undergraduate students ages rangeing from 18-24 with the link to the final SPA on it, this allowed the students to test the application and then answer several qustions based on the application. From this is was estabislshed 70% of the students asked found the appliciaiton easy to use and clear to navigate with 80% of them saying they would use the app again. Around 75% of the students said they would beleive this applicaiton would help them to budget their finaces and liked how clear each section was laided out. 
+ When asked what could be done to improve the application many users suggested in adding in a page with tips and tricks on how to save money/ how to make money last, which is something that would be highly consisdered if the project was to be done again. 
+       
+       
+       
        
        
        
